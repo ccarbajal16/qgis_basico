@@ -1,1 +1,1 @@
-# qgis_basico
+# Curso de QGIS Básico
