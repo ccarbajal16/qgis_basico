@@ -1,3 +1,5 @@
+# Curso: Funcionalidades de los SIG con QGIS (nivel básico)
+
 ## Presentación
 
 ![QGIS_curso](http://www.educagis.com/galeria/upload/2017/09/24/20170924191936-4c105cbc.png)
