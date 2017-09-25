@@ -4,7 +4,7 @@
 
 ![QGIS_curso](http://www.educagis.com/galeria/upload/2017/09/24/20170924191936-4c105cbc.png)
 
-Ante el incremento de la tendencia al uso de herramientas de software libre para los Sistemas de Información Geográfica (SIG), en esta oportunidad se brinda la propuesta de un curso virtual denominado ***“Funcionalidades de los SIG con QGIS (nivel básico)”***, en donde a través de la presentación de diversos temas seleccionados, pretendemos que el participante que se viene iniciando en el mundo de los SIG, pueda tener una inmersión progresiva de los principales conocimientos relacionado a las funcionalidades que involucran esta tecnología, los que serán ejecutados a través del software QGIS, teniendo en cuenta su gran potencial en el desarrollo de las mismas, por los cuales en la actualidad se le reconoce cada vez más.
+Ante el incremento de la tendencia al uso de herramientas de software libre para los Sistemas de Información Geográfica (SIG), en esta oportunidad se brinda la propuesta de un curso virtual denominado “Funcionalidades de los SIG con QGIS (nivel básico)”, en donde a través de la presentación de diversos temas seleccionados, pretendemos que el participante que se viene iniciando en el mundo de los SIG, pueda tener una inmersión progresiva de los principales conocimientos relacionado a las funcionalidades que involucran esta tecnología, los que serán ejecutados a través del software QGIS, teniendo en cuenta su gran potencial en el desarrollo de las mismas, por los cuales en la actualidad se le reconoce cada vez más.
 
 ## Objetivos del Curso
 
