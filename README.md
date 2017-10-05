@@ -36,7 +36,7 @@ Para visualizar el detalle de los temas entrar [aquí](http://www.educagis.com/g
 
 El desarrollo del curso será realizado bajo la modalidad On Line, estando diseñado para facilitar que el estudiante durante un tiempo de nueve (09) semanas, tenga el acceso las 24 horas a todo el contenido elaborado (lecturas, presentaciones, tutoriales, videos, entre otros), asimismo, pueda participar de actividades didácticas de interacción con el profesor y sus compañeros. Todo estará disponible desde un Entorno Virtual de Aprendizaje, en este caso desde el aula o plataforma virtual “<http://aula.educagis.com>”, contando con el acompañamiento permanente del facilitador, buscando que los participantes puedan absolver sus dudas y vayan adquiriendo progresivamente nuevos conocimientos sobre el software QGIS, para ello el curso está diseñado para tener un mayor componente práctico, es decir a través del desarrollo de diversos ejercicios, los cuales estarán acompañados de herramientas de soporte; del mismo modo a lo largo de curso se irá realizando evaluaciones para ir conociendo el nivel de progreso obtenido, teniendo un mayor peso de ponderación los trabajos encargados.
 
-Se recomienda un mínimo de 14 de dedicación a la semana,  de ellos 08 horas para revisar el contenido del curso (lecturas, tutoriales, videos y publicaciones recomendadas) y 06 horas para el desarrollo de actividades propuestas (trabajos encargados).
+Se recomienda un mínimo de 14 horas de dedicación a la semana,  de ellos 08 horas para revisar el contenido del curso (lecturas, tutoriales, videos y publicaciones recomendadas) y 06 horas para el desarrollo de actividades propuestas (trabajos encargados).
 
 ## Facilitador
 
